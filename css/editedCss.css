@@ -1,5 +1,18 @@
+@import url("../../webfonts/Anonymous_Pro_1/stylesheet.css");
+@import url("../../webfonts/Anonymous_2/stylesheet.css");
+@import url("../../webfonts/Anonymous_3/stylesheet.css");
+
+
 @media screen{
 }
+
+@font-face {
+    font-family: mySiteFont;
+    src: url(../fonts/gomarice_goma_block.ttf);
+}
+
+
+
 .intro_txt {
 	margin-left: 5%;
 	margin-right: 5px;
@@ -284,7 +297,7 @@
 	background-color: rgba(158,163,167,0.79);
 	position: relative;
 	right: -23px;
-	top: 48px;
+	top: 21px;
 	border-radius: 5px;
 }
 .mainPort2 {
@@ -347,8 +360,11 @@
 	color: rgba(247,247,247,1.00);
 }
 .whole_text {
+	position: relative;
 }
 .whole_text_right {
+	position: relative;
+
 
 }
 .mainPort1 .port1 #designer {
@@ -413,7 +429,7 @@
 	width: 45%;
 	border-radius: 7px;
 	max-height: 75%;
-	display: ;
+	
 }
 
 
@@ -563,7 +579,11 @@
 	padding-top: 13px;
 }
 .header_txt_font {
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-family: "Anonymous-3";
 	font-style: normal;
-	font-weight: 500;
+	font-weight: bold;
+	font-variant: normal;
+	font-size: large;
+	text-transform: uppercase;
+	text-indent: -23px;
 }
