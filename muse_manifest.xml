@@ -1,0 +1,48 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="v2.2" resolutions="1x" timestamp="1521985760413">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3962577273" ref="experience:port3:port1:portfolio:contact:skills:port2:resume:index"/>
+    <file name="experience.css" crc="4160471622" ref="experience"/>
+    <file name="port3.css" crc="4160471622" ref="port3"/>
+    <file name="port1.css" crc="4160471622" ref="port1"/>
+    <file name="portfolio.css" crc="4160471622" ref="portfolio"/>
+    <file name="contact.css" crc="4160471622" ref="contact"/>
+    <file name="skills.css" crc="4160471622" ref="skills"/>
+    <file name="port2.css" crc="4160471622" ref="port2"/>
+    <file name="resume.css" crc="4160471622" ref="resume"/>
+    <file name="index.css" crc="4160471622" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+    <file name="museutils.js" crc="3803043152" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+    <file name="require.js" crc="4157109226" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3"/>
+  </folder>
+  <folder name="images">
+    <file name="jonathan-francisca-227556-unsplash.jpg" crc="13856066" ref="index:skills:experience:portfolio:resume:contact:port1:port2:port3">
+      <caption webpage="port3" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="port2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="port1" alt=""/>
+      <caption webpage="skills" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="185404061" seo="true" mt="1521985708322" redirect="true"/>
+  <file name="skills.html" crc="353519104" seo="true" mt="1521985708322" redirect="true"/>
+  <file name="experience.html" crc="4007024598" seo="true" mt="1521985708322" redirect="true"/>
+  <file name="portfolio.html" crc="3902672272" seo="true" mt="1521985708322" redirect="true"/>
+  <file name="resume.html" crc="3846676019" seo="true" mt="1521985708322" redirect="true"/>
+  <file name="contact.html" crc="278794309" seo="true" mt="1521985708322" redirect="true"/>
+  <file name="port1.html" crc="3999437885" seo="true" mt="1521985708322" redirect="true"/>
+  <file name="port2.html" crc="306135868" seo="true" mt="1521985708322" redirect="true"/>
+  <file name="port3.html" crc="3895775537" seo="true" mt="1521985708322" redirect="true"/>
+</manifest>
